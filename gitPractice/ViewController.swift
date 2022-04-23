@@ -51,6 +51,22 @@ class ViewController: UIViewController {
          */
         
         //bug fix
+        
+        
+        //code 5
+        
+        /*
+         code
+         */
+        
+        //code 6
+        
+        /*
+         
+         code
+         */
+        
+        
     }
 
 
